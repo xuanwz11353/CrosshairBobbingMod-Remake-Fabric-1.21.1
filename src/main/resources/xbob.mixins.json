@@ -1,0 +1,16 @@
+{
+    "required": true,
+    "package": "${mod_package}.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "refmap": "xbob-refmap.json",
+    "client": [
+        "InGameHudMixin",
+        "ClientPlayerInteractionManagerMixin",
+        "LivingEntityMixin",
+        "LivingEntityAccessor",
+        "HeldItemRendererAccessor",
+        "GameRendererMixin",
+        "GameRendererAccessor",
+        "CameraAccessor"
+    ]
+}

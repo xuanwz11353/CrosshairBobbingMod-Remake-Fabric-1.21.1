@@ -1,0 +1,13 @@
+{
+    "${mod_id}.config.title": "Crosshair Bobbing Configuration",
+    "${mod_id}.config.bob": "Following View-bobbing",
+    "${mod_id}.config.sneak": "Sneaking Animation",
+    "${mod_id}.config.item": "Changing Item Animation",
+    "${mod_id}.config.aim": "Aiming Animation",
+    "${mod_id}.config.spear": "Trident Animation",
+    "${mod_id}.config.xbow": "Crossbow Animation",
+    "${mod_id}.config.eat": "Eating Animation",
+    "${mod_id}.config.atk": "Attacking Animation",
+    "${mod_id}.config.value.enable": "Enabled",
+    "${mod_id}.config.value.disable": "Disabled"
+}
